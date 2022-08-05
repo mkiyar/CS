@@ -1,0 +1,7 @@
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\bin\Debug\NetFramework.S1.D1.DegiskenNedir.exe.config
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\bin\Debug\NetFramework.S1.D1.DegiskenNedir.exe
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\bin\Debug\NetFramework.S1.D1.DegiskenNedir.pdb
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.csprojResolveAssemblyReference.cache
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.csproj.CoreCompileInputs.cache
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.exe
+C:\CSharpEgitim\NetFramework\NetFramework.S1.D1.DegiskenNedir\obj\Debug\NetFramework.S1.D1.DegiskenNedir.pdb
